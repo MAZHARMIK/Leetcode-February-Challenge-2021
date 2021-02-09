@@ -12,6 +12,11 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/febru
 		</thead>
 		<tbody>
 			<tr>
+			  <td>Number of Distinct Islands</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Number%20of%20Distinct%20Islands"><img src="https://static.vecteezy.com/system/resources/previews/000/298/689/original/set-of-isolated-island-vector.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
 			  <td>Convert BST to Greater Tree</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Convert%20BST%20to%20Greater%20Tree"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/1200px-Binary_search_tree.svg.png" width="400" height="240"></a>
 			  </td>
