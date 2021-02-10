@@ -21,5 +21,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/febru
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Convert%20BST%20to%20Greater%20Tree"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/1200px-Binary_search_tree.svg.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Copy List with Random Pointer</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Copy%20List%20with%20Random%20Pointer%20(O(1)%20space)"><img src="https://www.geeksforgeeks.org/wp-content/uploads/gq/2013/03/Linkedlist.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
