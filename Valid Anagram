@@ -1,0 +1,32 @@
+//solution-1
+class Solution {
+public:
+    bool isAnagram(string s, string t) {
+        sort(s.begin(), s.end());
+        sort(t.begin(), t.end());
+        return s==t;
+    }
+};
+
+
+
+//solution-2
+class Solution {
+public:
+    bool isAnagram(string s, string t) {
+        if(s.length() != t.length())
+            return false;
+        int array[26] = {0};
+        for(char ch:s)
+            array[ch-'a']++;
+        for(char ch:t)
+            array[ch-'a']--;
+        
+        for(int i:array){
+            if(i != 0)
+                return false;
+        }
+        return true;
+            
+    }
+};
