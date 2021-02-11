@@ -26,5 +26,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/febru
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Copy%20List%20with%20Random%20Pointer%20(O(1)%20space)"><img src="https://www.geeksforgeeks.org/wp-content/uploads/gq/2013/03/Linkedlist.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Valid Anagram</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-February-Challenge-2021/blob/main/Valid%20Anagram"><img src="https://lyndamullalyhunt.files.wordpress.com/2019/04/anagram-listen-silent.png?w=410&h=372" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
