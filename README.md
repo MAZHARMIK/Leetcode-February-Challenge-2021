@@ -17,6 +17,11 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/febru
 			  </td>
 			</tr>
 			<tr>
+			  <td>Peeking Iterator</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Peeking%20Iterator"><img src="https://appdividend.com/wp-content/uploads/2019/07/Java-Iterators-Example.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
 			  <td>Convert BST to Greater Tree</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Convert%20BST%20to%20Greater%20Tree"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/1200px-Binary_search_tree.svg.png" width="400" height="240"></a>
 			  </td>
