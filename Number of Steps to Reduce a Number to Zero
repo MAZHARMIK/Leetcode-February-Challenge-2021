@@ -1,3 +1,4 @@
+//Simple Solution
 class Solution {
 public:
     int numberOfSteps (int num) {
@@ -10,5 +11,28 @@ public:
                 num--;
         }
         return steps;
+    }
+};
+
+
+//Using Bit Pattern
+/*
+num     Binary   result = (no. of bits-1) + no. of 1s
+1	    1           1    i.e. (1-1)+1 = 1;
+2	    10          2    i.e. (2-1)+1 = 2;
+3	    11          3    so on...
+4	    100         3
+5	    101         4
+6	    110         4
+7	    111         5
+8	    1000        4
+9	    1001        5
+10	    1010        5
+*/
+
+class Solution {
+public:
+    int numberOfSteps (int num) {
+        return num ? log2(num) + bitset<32>(num).count():0;
     }
 };
