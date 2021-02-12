@@ -36,5 +36,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/febru
         <td><a href="https://github.com/MAZHARMIK/Leetcode-February-Challenge-2021/blob/main/Valid%20Anagram"><img src="https://lyndamullalyhunt.files.wordpress.com/2019/04/anagram-listen-silent.png?w=410&h=372" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Number of Steps to Reduce a Number to Zero</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-February-Challenge-2021/blob/main/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero"><img src="https://cdn.tutsplus.com/photo/uploads/legacy/806_bitdepth/02.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
