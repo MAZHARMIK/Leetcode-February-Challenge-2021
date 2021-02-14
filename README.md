@@ -41,5 +41,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/febru
         <td><a href="https://github.com/MAZHARMIK/Leetcode-February-Challenge-2021/blob/main/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Msb0.svg/300px-Msb0.svg.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Shortest Path in Binary Matrix</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Shortest%20Path%20in%20Binary%20Matrix"><img src="https://www.researchgate.net/profile/Joseph_Zalaket/publication/274117883/figure/fig1/AS:669229720293389@1536568207719/Generated-bitmap-matrix-corresponding-to-Figure-1_Q320.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
