@@ -71,5 +71,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/febru
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Container%20With%20Most%20Water"><img src="https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/17/question_11.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Arithmetic Slices</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Arithmetic%20Slices"><img src="https://ichef.bbci.co.uk/images/ic/1280xn/p06lkf24.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
