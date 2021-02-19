@@ -76,5 +76,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/febru
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Arithmetic%20Slices"><img src="https://ichef.bbci.co.uk/images/ic/1280xn/p06lkf24.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Minimum Remove to Make Valid Parentheses</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Minimum%20Remove%20to%20Make%20Valid%20Parentheses"><img src="https://classroomclipart.com/images/gallery/Clipart/Language_Arts/parenthesis-2.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
