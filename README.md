@@ -81,5 +81,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/febru
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Minimum%20Remove%20to%20Make%20Valid%20Parentheses"><img src="https://classroomclipart.com/images/gallery/Clipart/Language_Arts/parenthesis-2.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Roman to Integer</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-February-Challenge-2021/blob/main/Roman%20to%20Integer"><img src="https://i.ytimg.com/vi/GgG3iyV1UZg/maxresdefault.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
