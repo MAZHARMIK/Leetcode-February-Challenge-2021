@@ -86,5 +86,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/febru
         <td><a href="https://github.com/MAZHARMIK/Leetcode-February-Challenge-2021/blob/main/Roman%20to%20Integer"><img src="https://i.ytimg.com/vi/GgG3iyV1UZg/maxresdefault.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Broken Calculator</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Broken%20Calculator"><img src="https://media.wired.com/photos/5984cf187eed4f0eb2c79d90/16:9/w_2400,c_limit/BrokenCalculator-HP-508476167.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
