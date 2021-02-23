@@ -103,7 +103,7 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/febru
 			</tr>
 			<tr>
 			  <td>Search a 2D Matrix II</td>
-        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Search%20a%202D%20Matrix%20II"><img src="https://duckduckgo.com/?q=search&t=h_&va=a&iax=images&ia=images&iaf=type%3Aclipart&iai=https%3A%2F%2Fs3-torquehhvm-wpengine.netdna-ssl.com%2Fuploads%2F2013%2F09%2Fsearch_123304099.jpg" width="400" height="240"></a>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Search%20a%202D%20Matrix%20II"><img src="https://alwaysbejobhunting.files.wordpress.com/2013/01/kozzi-clip_art_of_a_search_icon-721x721.jpg?w=721" width="400" height="240"></a>
 			  </td>
 			</tr>
 		</tbody>
