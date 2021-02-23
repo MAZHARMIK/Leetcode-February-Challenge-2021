@@ -96,5 +96,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/febru
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/5b40f5e5b51e097609125b0ba5e4bceed5d0b67f/Graph/Find%20the%20Celebrity"><img src="https://media.istockphoto.com/vectors/pretty-young-celebrity-wave-hand-to-press-vector-id866644268?k=6&m=866644268&s=612x612&w=0&h=FbiTFo9wSAX7lRRbMnjWyHxg3QUxjxbOelQK0J_rlp0=" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Longest Word in Dictionary through Deleting</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Longest%20Word%20in%20Dictionary%20through%20Deleting"><img src="https://www.netclipart.com/pp/m/15-158640_vocabulary-dictionary.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
