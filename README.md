@@ -91,5 +91,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/febru
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Broken%20Calculator"><img src="https://media.wired.com/photos/5984cf187eed4f0eb2c79d90/16:9/w_2400,c_limit/BrokenCalculator-HP-508476167.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Find the Celebrity</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/5b40f5e5b51e097609125b0ba5e4bceed5d0b67f/Graph/Find%20the%20Celebrity"><img src="https://media.istockphoto.com/vectors/pretty-young-celebrity-wave-hand-to-press-vector-id866644268?k=6&m=866644268&s=612x612&w=0&h=FbiTFo9wSAX7lRRbMnjWyHxg3QUxjxbOelQK0J_rlp0=" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
