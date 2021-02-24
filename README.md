@@ -106,5 +106,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/febru
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Search%20a%202D%20Matrix%20II"><img src="https://alwaysbejobhunting.files.wordpress.com/2013/01/kozzi-clip_art_of_a_search_icon-721x721.jpg?w=721" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Score of Parentheses</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Stack/Score%20of%20Parentheses"><img src="https://image.flaticon.com/icons/png/512/261/261980.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
