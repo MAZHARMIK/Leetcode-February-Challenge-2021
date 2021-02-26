@@ -116,5 +116,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/febru
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Shortest%20Unsorted%20Continuous%20Subarray"><img src="https://toolsqa.com/wp-content/uploads/sites/1/nggallery/data-structures/unsorted-array-1.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Validate Stack Sequences</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Stack/Validate%20Stack%20Sequences"><img src="https://static.javatpoint.com/ds/images/ds-stack-introduction.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
