@@ -122,7 +122,7 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/febru
 			  </td>
 			</tr>
 			<tr>
-			  <td>Validate Stack Sequences</td>
+			  <td>Divide Two Integers</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-February-Challenge-2021/blob/main/Divide%20Two%20Integers"><img src="https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-77017-divide--2x1--940.png" width="400" height="240"></a>
 			  </td>
 			</tr>
