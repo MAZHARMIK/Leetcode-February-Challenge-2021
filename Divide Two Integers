@@ -1,0 +1,31 @@
+class Solution {
+public:
+    int divide(int Dividend, int Divisor) {        
+        int sign  = (Dividend > 0 && Divisor < 0) || (Dividend < 0 && Divisor > 0) ? -1 : 1;
+        long long dividend  = abs(Dividend);
+        long long divisor   = abs(Divisor);
+        
+        long result   = 0;
+        long curr     = 1;
+        long subtract = divisor;
+        
+        cout << dividend << " " <<  subtract << endl;
+        while(dividend >= divisor) {
+            
+            if(dividend >= subtract) {
+                result   += curr;
+                dividend -= subtract;
+                subtract  = subtract<<1;
+                curr      = curr<<1;  
+            } else {
+                subtract = subtract >> 1;
+                curr     = curr >> 1;
+            }
+        }
+
+        if(sign < 0)
+            result = -result;
+        
+        return (result > INT_MAX || result < INT_MIN ? INT_MAX : result);
+    }
+};
