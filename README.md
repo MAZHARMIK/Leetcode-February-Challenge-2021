@@ -126,5 +126,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/febru
         <td><a href="https://github.com/MAZHARMIK/Leetcode-February-Challenge-2021/blob/main/Divide%20Two%20Integers"><img src="https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-77017-divide--2x1--940.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Maximum Frequency Stack</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Maximum%20Frequency%20Stack"><img src="https://static.javatpoint.com/ds/images/ds-stack-introduction-deletion-element.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
